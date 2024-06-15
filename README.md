@@ -1,5 +1,8 @@
 # ¡Hi! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=GaboYR&label=Profile%20views&color=0e75b6&style=flat)
+
+
 I'm Gabriel, a newbie but passionate about programming.
 
 Favorite language programming: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
